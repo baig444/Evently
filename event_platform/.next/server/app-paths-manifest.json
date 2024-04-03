@@ -1,0 +1,7 @@
+{
+  "/api/uploadthing/route": "app/api/uploadthing/route.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
+  "/(root)/events/create/page": "app/(root)/events/create/page.js",
+  "/(root)/profile/page": "app/(root)/profile/page.js"
+}
